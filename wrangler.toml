@@ -1,0 +1,5 @@
+
+compatibility_date = "2023-01-21"
+
+kv_namespaces = [  
+  { binding = "BAR", id = "<YOUR ID>" , preview_id = "<YOUR PREVIEW ID>" } ]
